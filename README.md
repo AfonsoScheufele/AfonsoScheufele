@@ -51,8 +51,11 @@ Over time, I found in programming a way to turn ideas into something real and us
 </div>
 
 ---
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/AfonsoScheufele/AfonsoScheufele/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
