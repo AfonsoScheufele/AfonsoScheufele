@@ -59,7 +59,7 @@ Over time, I found in programming a way to turn ideas into something real and us
 <div align="center">
   <a href="https://github.com/afonsoscheufele" target="_blank">
     <img height="180em" src="https://github-readme-stats-orcin-eight-96.vercel.app/api?username=afonsoscheufele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-orcin-eight-96.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-orcin-eight-96.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=dark&cache_seconds=1" />
   </a>
 </div> 
 
