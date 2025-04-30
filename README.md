@@ -51,13 +51,6 @@ Over time, I found in programming a way to turn ideas into something real and us
 </div>
 
 ---
-<div align=center>
-  
-<img src="https://raw.githubusercontent.com/AfonsoScheufele/AfonsoScheufele/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ### 📈 GitHub Stats
 
@@ -67,6 +60,14 @@ Over time, I found in programming a way to turn ideas into something real and us
     <img height="180em" src="https://github-readme-stats-orcin-eight-96.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div> 
+
+---
+
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/AfonsoScheufele/AfonsoScheufele/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
