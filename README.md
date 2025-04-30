@@ -5,17 +5,29 @@
 
 ### 👨‍💻 Sobre mim | About Me
 
-🇧🇷 Desenvolvedor com foco em performance, qualidade de código e construção de soluções completas.  
-🇺🇸 Developer focused on performance, code quality, and building complete solutions.
+🇧🇷 Desenvolvedor Full Stack focado em performance, qualidade de código e soluções completas.  
+🇺🇸 Full Stack Developer focused on performance, code quality, and complete solutions.
 
 <div style="display: inline_block"><br>
+  <!-- Frontend -->
+  <img align="center" alt="Afonso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Afonso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Afonso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Afonso-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Afonso-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Afonso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Afonso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Afonso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <!-- Backend -->
+  <img align="center" alt="Afonso-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Afonso-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+  <!-- Languages -->
+  <img align="center" alt="Afonso-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Afonso-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Afonso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <!-- Tools -->
+  <img align="center" alt="Afonso-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
   <img align="right" alt="Afonso-yoda" src="https://cdn.discordapp.com/attachments/795358914197397249/825430598561688872/hi.gif">
 </div>
 
@@ -38,7 +50,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/afonsoscheufele">
+  <a href="https://github.com/afonsoscheufele" target="_blank">
     <img height="180em" src="https://github-readme-stats-orcin-eight-96.vercel.app/api?username=afonsoscheufele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-orcin-eight-96.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=dark"/>
   </a>
@@ -48,7 +60,6 @@
 
 ### 📬 Contato | Contact
 
-- ✉️ Email: martinischeufeleafonso@gmail.com 
+- ✉️ Email: martinischeufeleafonso@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/afonsoscheufele](https://www.linkedin.com/in/afonsoscheufele)  
 - 💼 Portfólio: [Veja meu portfólio](https://seu-link.vercel.app)
-
