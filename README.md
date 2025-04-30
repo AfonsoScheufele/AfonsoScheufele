@@ -22,19 +22,10 @@
 ##
 
 <div>
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAT9C9V1NZcvQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/rafaballerini" target="_blank">
+  <a href="https://instagram.com/afonso_scheufele" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.twitch.tv/rafaballerini" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/GGGPg5AS7" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:afonso@email.com" target="_blank">
+  <a href="mailto:martinischeufeleafonso@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/afonsoscheufele" target="_blank">
@@ -57,12 +48,7 @@
 
 ### 📬 Contato | Contact
 
-- ✉️ Email: afonso@email.com  
+- ✉️ Email: martinischeufeleafonso@gmail.com 
 - 🌐 LinkedIn: [linkedin.com/in/afonsoscheufele](https://www.linkedin.com/in/afonsoscheufele)  
 - 💼 Portfólio: [Veja meu portfólio](https://seu-link.vercel.app)
 
----
-
-<p align="center">
-  Feito com ⚙️ e dedicação por Afonso Scheufele
-</p>
