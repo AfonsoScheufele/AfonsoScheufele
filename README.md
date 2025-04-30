@@ -70,11 +70,3 @@ Over time, I found in programming a way to turn ideas into something real and us
 <img src="https://raw.githubusercontent.com/AfonsoScheufele/AfonsoScheufele/output/snake.svg" alt="Snake animation" />
 
 </div>
-
----
-
-### 📬 Contato | Contact
-
-- ✉️ Email: martinischeufeleafonso@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/afonsoscheufele](https://www.linkedin.com/in/afonsoscheufele)  
-- 💼 Portfólio: [Veja meu portfólio](https://seu-link.vercel.app)
