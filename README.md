@@ -51,6 +51,7 @@ Over time, I found in programming a way to turn ideas into something real and us
 </div>
 
 ---
+![Snake animation](https://github.com/afonsoscheufele/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats
 
