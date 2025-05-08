@@ -1,4 +1,4 @@
-<h1 align="center">Afonso Scheufele 🚀</h1>
+<h1 align="center">Afonso Scheufele</h1>
 
 ---
 
