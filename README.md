@@ -1,7 +1,5 @@
 <h1 align="center">Afonso Scheufele</h1>
 
----
-
 ### 👨‍💻 Sobre mim | About Me
 
 🇧🇷 Sempre fui aquele curioso que queria entender como as coisas funcionam, principalmente quando se tratava de carros e tecnologia. Me formei no Ensino Médio com técnico em Automação Industrial pelo IFC de Luzerna, e atualmente curso Engenharia de Software na UNC de Concórdia.
