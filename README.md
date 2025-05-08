@@ -1,5 +1,4 @@
 <h1 align="center">Afonso Scheufele 🚀</h1>
-<p align="center">Desenvolvedor Full Stack • Full Stack Developer</p>
 
 ---
 
