@@ -27,8 +27,6 @@ Over time, I found in programming a way to turn ideas into something real and us
   
   <!-- Tools -->
   <img align="center" alt="Afonso-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-  <img align="right" alt="Afonso-yoda" src="https://cdn.discordapp.com/attachments/795358914197397249/825430598561688872/hi.gif">
 </div>
 
 ##
