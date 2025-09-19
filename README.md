@@ -53,6 +53,10 @@ Over time, I found in programming a way to turn ideas into something real and us
     <img height="180em" src="https://github-readme-stats-git-main-afonsoscheufeles-projects.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=dark&cache_seconds=1&count_private=true" /> 
   </a> 
 </div>
+<div align="center">
+  <!-- Streak de contribuições -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=afonsoscheufele&theme=dark"/>
+</div>
 
 ---
 
