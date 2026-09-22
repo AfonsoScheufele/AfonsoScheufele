@@ -1,63 +1,70 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F799&width=435&lines=Hi!!+I'm+Afonso+Scheufele" alt="Typing SVG" /></a>
+<a href="https://afonsoscheufele.github.io/repo/">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&pause=1200&color=E4572E&center=false&vCenter=true&width=520&lines=Afonso+Scheufele;Full+Stack+Developer;Node.js+%7C+React+%7C+TypeScript" alt="Afonso Scheufele" />
+</a>
 
-### 👨‍💻 Sobre mim | About Me
+**Full Stack Developer** · Node.js, React e TypeScript  
+Formação em Automação Industrial (IFC) · Engenharia de Software (UNC) · Concórdia, SC
 
-🇧🇷 Sempre fui aquele curioso que queria entender como as coisas funcionam, principalmente quando se tratava de carros e tecnologia. Me formei no Ensino Médio com técnico em Automação Industrial pelo IFC de Luzerna, e atualmente curso Engenharia de Software na UNC de Concórdia.
-Descobri na programação uma forma de transformar ideias em algo real e útil. Gosto de aprender no dia a dia, colocar a mão na massa, criar coisas que realmente funcionam e fazem diferença. Sigo evoluindo como desenvolvedor, sempre aberto a novos desafios e buscando fazer um pouco melhor a cada projeto.
+[![Portfolio](https://img.shields.io/badge/Portfolio-14181F?style=for-the-badge&logo=github&logoColor=E4572E)](https://afonsoscheufele.github.io/repo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-scheufele)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinischeufeleafonso@gmail.com)
 
-🇺🇸 I've always been that curious person who wanted to understand how things work, especially when it came to cars and technology. I graduated from high school with a technical degree in Industrial Automation at IFC Luzerna, and I’m currently studying Software Engineering at UNC in Concórdia.
-Over time, I found in programming a way to turn ideas into something real and useful. I enjoy learning through experience, getting hands-on, and building things that actually work and make a difference. I'm constantly growing as a developer, always open to new challenges and trying to do a little better with each project.
+---
 
-<div style="display: inline_block"><br>
-  <!-- Frontend -->
-  <img align="center" alt="Afonso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Afonso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Afonso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  
-  <!-- Backend -->
-  <img align="center" alt="Afonso-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Afonso-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+### Sobre mim
 
+🇧🇷 Trabalho com aplicações web — APIs REST (Express, NestJS), dashboards em React/Tailwind e dados com PostgreSQL e Redis. Python entra quando o processo pede.
 
-  <!-- Languages -->
-  <img align="center" alt="Afonso-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Afonso-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Afonso-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+Venho de Automação Industrial (IFC Luzerna): PLC e sensores moldaram como eu penso sistema. Hoje o dia a dia é software, com projetos pessoais em IIoT, visão e logística (RotaPay, EntregaJá).
 
-  
-  <!-- Tools -->
-  <img align="center" alt="Afonso-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+No trabalho atual ajudo a manter um dashboard e relatórios quase em tempo real (~5.300 usuários ativos), com jobs curtos no backend e volume grande de dados operacionais.
 
-##
+🇺🇸 Full stack developer focused on web apps with Node.js, React, and TypeScript. Background in Industrial Automation (IFC) — that systems mindset still shapes how I build. Currently studying Software Engineering at UNC (Concórdia).
 
-<div>
-  <a href="https://instagram.com/afonso_scheufele" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:martinischeufeleafonso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="www.linkedin.com/in/afonso-scheufele" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+Day to day: REST APIs (Express, NestJS), React dashboards, PostgreSQL and Redis. Side projects in IIoT, computer vision, and BR logistics with Pix.
+
+---
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nestjs,express,postgres,redis,python,tailwind,git,docker,linux" alt="Stack" />
+</p>
+
+`TypeScript` · `Node.js` · `Express` · `NestJS` · `React` · `Tailwind` · `PostgreSQL` · `Redis` · `Python`
+
+---
+
+### Projetos em destaque
+
+| Projeto | O que é |
+|--------|---------|
+| [rotapay](https://github.com/AfonsoScheufele/rotapay) | TMS lite BR — frete, papéis, Pix e webhook em fila |
+| [entrega-ja](https://github.com/AfonsoScheufele/entrega-ja) | Last-mile / courier — cotação, Pix e tracking |
+| [iiot-plc-node-react-dashboard](https://github.com/AfonsoScheufele/iiot-plc-node-react-dashboard) | PLC simulado → API → dashboard React |
+| [Computer-Vision-Inspection-System](https://github.com/AfonsoScheufele/Computer-Vision-Inspection-System) | Inspeção de imagem com TensorFlow + OpenCV |
+| [digital-twin-3d](https://github.com/AfonsoScheufele/digital-twin-3d) | Gêmeo digital 3D com Three.js |
+| [industrial-event-logger](https://github.com/AfonsoScheufele/industrial-event-logger) | Event sourcing com histórico e replay |
+
+Mais no [portfólio](https://afonsoscheufele.github.io/repo/).
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/AfonsoScheufele">
+    <img height="180em" src="https://github-readme-stats-git-main-afonsoscheufeles-projects.vercel.app/api?username=afonsoscheufele&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=E4572E&icon_color=1B4965&text_color=8B949E&bg_color=0D1117" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-git-main-afonsoscheufeles-projects.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=transparent&hide_border=true&count_private=true&title_color=E4572E&text_color=8B949E&bg_color=0D1117" alt="Top languages" />
   </a>
 </div>
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center"> 
-  <a href="https://github.com/afonsoscheufele" target="_blank"> 
-    <img height="180em" src="https://github-readme-stats-git-main-afonsoscheufeles-projects.vercel.app/api?username=afonsoscheufele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats-git-main-afonsoscheufeles-projects.vercel.app/api/top-langs/?username=afonsoscheufele&layout=compact&langs_count=8&theme=dark&cache_seconds=1&count_private=true" /> 
-  </a> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AfonsoScheufele/AfonsoScheufele/output/snake.svg" alt="Snake animation" />
 </div>
 
----
-
-<div align=center>
-  
-<img src="https://raw.githubusercontent.com/AfonsoScheufele/AfonsoScheufele/output/snake.svg" alt="Snake animation" />
-
-</div>
+<p align="center">
+  <sub>Concórdia, SC — aberto a conversa sobre software, APIs e automação.</sub>
+</p>
